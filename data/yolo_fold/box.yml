@@ -1,0 +1,6 @@
+train: /content/images/train
+val: /content/images/val
+
+nc: 1  # Number of classes (e.g., orange_square is 1 class)
+names: ['box']  # List of class names
+
